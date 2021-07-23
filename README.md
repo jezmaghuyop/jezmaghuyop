@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NodeJs, Azure Static Web Apps and different frontend frameworks for web.
 - 😄 Pronouns: He/Him.
 - 💬 Ask me about .NET, C#, SignalR, Javascript, Typescript, Angular, React
-- 📫 How to reach me: <a href="mailto:jezreelmaghuyop@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/jmaghuyop/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://stackoverflow.com/users/15225183/devfromph?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+- 📫 How to reach me: <a href="mailto:jezreelmaghuyop@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/jmaghuyop/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/15225183/devfromph?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
 
 ## Tech Stack
