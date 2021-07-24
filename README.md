@@ -1,4 +1,5 @@
-# Hi there. I am Jez Reel 👋 . Welcome to my Profile!!!  <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jezmaghuyop.repoName) -->
+# Hi there. I am Jez Reel 👋 . Welcome to my Profile!!! 
+ <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jezmaghuyop.repoName) -->
 
 - 🔭 I am currently working as a Technical Advisor.
 - 🌱 I’m currently learning NodeJs, Azure Static Web Apps and different frontend frameworks for web.
@@ -6,6 +7,7 @@
 - 💬 Ask me about .NET, C#, SignalR, Javascript, Typescript, Angular, React
 - 📫 How to reach me: <a href="mailto:jezreelmaghuyop@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/jmaghuyop/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/15225183/devfromph?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
+<a href="https://www.buymeacoffee.com/aXCf5YJ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="15%"  style="max-width: 15% !important;"></a>  
 
 ## Tech Stack
 <p>
@@ -39,7 +41,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jezmaghuyop&layout=compact)
   
-
 <!--
 **jezmaghuyop/jezmaghuyop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
